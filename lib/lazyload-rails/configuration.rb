@@ -22,7 +22,7 @@ module Lazyload
 
       # Set default settings
       def initialize
-        @placeholder = "http://www.appelsiini.net/projects/lazyload/img/grey.gif"
+        @placeholder = "/public/grey.gif"
       end
     end
   end
