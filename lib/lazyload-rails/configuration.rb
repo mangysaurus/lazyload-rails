@@ -22,7 +22,7 @@ module Lazyload
 
       # Set default settings
       def initialize
-        @placeholder = "/public/grey.gif"
+        @placeholder = "https://s3-us-west-2.amazonaws.com/csappprod/pages/grey.gif"
       end
     end
   end
